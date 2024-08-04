@@ -8,7 +8,7 @@ The more calcium and magnesium the water contains, the harder the water.
 2. Water hardness is usually expressed in milligrams per litre (mg/L) or in ppm (parts per million).
 3. Degree of Hardness = (The weight of hardness causing salts × 100 (Molecular weight of CaCO3)) / Molecular weight of hardness causing salts.
 
-## Calcium Carbonate is considered as a standard for calculating hardness
+## Why Calcium Carbonate is considered as a standard for calculating hardness ?
 
 1. Its molecular weight (100) and equivalent weight (50) is a whole number, so the calculations in water analysis can be simplified. 
 2. It is the most insoluble salt that can be precipitated in water treatment.
@@ -31,11 +31,11 @@ permanent hardness and total hardness.
 | MgCl_2 | 95 | 95 | 95×100/95 = 100 |
 
 Temporary hardness = Mg(HCO3)2 + Ca(HCO3)_2
-                   = 50 + 50 = 100mgs/Lit.
+                   /= 50 + 50 = 100mgs/Lit.
 Permanent hardness = CaCl_2 + MgSO_4 + MgCl_2
-                   = 100 + 33.3 + 100 = 233.3 mgs/Lit.
+                   /= 100 + 33.3 + 100 = 233.3 mgs/Lit.
 Total hardness = Temporary hardness + Permanent hardness
-                   = 100 + 233.3 = 333.3 mgs/Lit.
+               /= 100 + 233.3 = 333.3 mgs/Lit.
 
 
 ### Problem-2:
@@ -52,10 +52,10 @@ Mg(HCO3)2 = 16.8, MgCl2 = 12.0, MgSO4 = 29.6 and NaCl = 5.0. Calculate temporary
 | NaCl | 5.0 | NaCl does not contribute any hardness to water hence it is ignored. |
 
 Temporary hardness = Mg(HCO3)2 
-                   = 11.50 mgs/Lit.
+                   /= 11.50 mgs/Lit.
  Permanent hardness = MgCl2 + MgSO4 
-                    = 12.63 + 24.66
-                    = 37.29 mgs/Lit.
+                    /= 12.63 + 24.66
+                    /= 37.29 mgs/Lit.
 
 
 
