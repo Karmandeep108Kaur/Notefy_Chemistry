@@ -30,12 +30,15 @@ permanent hardness and total hardness.
 | MgSO_4 | 40 | 120 | 40×100/120 = 33.3 |
 | MgCl_2 | 95 | 95 | 95×100/95 = 100 |
 
-Temporary hardness = Mg(HCO3)2 + Ca(HCO3)_2
-                   /= 50 + 50 = 100mgs/Lit.
-Permanent hardness = CaCl_2 + MgSO_4 + MgCl_2
-                   /= 100 + 33.3 + 100 = 233.3 mgs/Lit.
-Total hardness = Temporary hardness + Permanent hardness
-               /= 100 + 233.3 = 333.3 mgs/Lit.
+#### Temporary hardness 
+                   = Mg(HCO3)2 + Ca(HCO3)_2
+                   = 50 + 50 = 100mgs/Lit.
+#### Permanent hardness 
+                   = CaCl_2 + MgSO_4 + MgCl_2
+                   = 100 + 33.3 + 100 = 233.3 mgs/Lit.
+#### Total hardness 
+               = Temporary hardness + Permanent hardness
+               = 100 + 233.3 = 333.3 mgs/Lit.
 
 
 ### Problem-2:
@@ -51,11 +54,12 @@ Mg(HCO3)2 = 16.8, MgCl2 = 12.0, MgSO4 = 29.6 and NaCl = 5.0. Calculate temporary
 | MgSO_4 | 29.6 | 120 | 29.6×100/120 = 24.66 |
 | NaCl | 5.0 | NaCl does not contribute any hardness to water hence it is ignored. |
 
-Temporary hardness = Mg(HCO3)2 
-                   /= 11.50 mgs/Lit.
- Permanent hardness = MgCl2 + MgSO4 
-                    /= 12.63 + 24.66
-                    /= 37.29 mgs/Lit.
+#### Temporary hardness 
+                   = Mg(HCO3)2 
+                   = 11.50 mgs/Lit.
+#### Permanent hardness = MgCl2 + MgSO4 
+                    = 12.63 + 24.66
+                    = 37.29 mgs/Lit.
 
 
 
